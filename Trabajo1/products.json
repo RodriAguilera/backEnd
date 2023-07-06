@@ -1,20 +1,29 @@
 [
-  {
-    "title": "Adidas Galaxy6",
-    "description": "Calzado running de media gama",
-    "price": 55000,
-    "thumbnail": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatillas-running-adidas-galaxy-6-gris-100010gw4140001-1.jpg",
-    "code": "GW4141",
-    "stock": 20,
-    "id": "1"
-  },
-  {
-    "title": "Nike Pegasus39",
-    "description": "Calzado Running de Alta Gama",
-    "price": 75000,
-    "thumbnail": "https://essential.vtexassets.com/arquivos/ids/592825-800-auto?v=637938513775400000&width=800&height=auto&aspect=true",
-    "code": "DH3158001",
-    "stock": 15,
-    "id": "3"
-  }
+	{
+		"id": 4,
+		"title": "Adidas Galaxy6",
+		"description": "Calzado running de media gama",
+		"price": 36000,
+		"thumbnail": "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatillas-running-adidas-galaxy-6-gris-100010gw4140001-1.jpg",
+		"code": "GW4141",
+		"stock": 20
+	},
+	{
+		"id": 5,
+		"title": "Nike Air Max",
+		"description": "Zapatillas deportivas para correr",
+		"price": 55000,
+		"thumbnail": "https://media.nike.com/ae/en_us/dw/600c1153-d860-446c-b8c9-7d50975a43ad.jpg",
+		"code": "NM1234",
+		"stock": 10
+	},
+	{
+		"id": 6,
+		"title": "Nike Pegasus39",
+		"description": "Calzado Running de Alta Gama",
+		"price": 75000,
+		"thumbnail": "https://essential.vtexassets.com/arquivos/ids/592825-800-auto?v=637938513775400000&width=800&height=auto&aspect=true",
+		"code": "DH3158001",
+		"stock": 15
+	}
 ]
